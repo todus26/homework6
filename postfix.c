@@ -2,7 +2,7 @@
  * postfix.c
  *
  * School of Computer Science, 
- * Chungbuk National University
+ * Chungbuk National University.
  */
 
 #include<stdio.h>
